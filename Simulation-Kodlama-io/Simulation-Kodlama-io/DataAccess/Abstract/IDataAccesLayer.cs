@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW3.DataAccess.Abstract
+namespace Simulation-Kodlama-io.DataAccess.Abstract
 {
     public interface IDataAccesLayer
     {

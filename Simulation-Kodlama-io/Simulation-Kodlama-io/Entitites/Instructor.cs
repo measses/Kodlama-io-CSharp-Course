@@ -1,7 +1,7 @@
 ﻿
-using HW3.Entitites;
+using Simulation-Kodlama-io.Entitites;
 
-namespace HW3.Entitites;
+namespace Simulation-Kodlama-io.Entitites;
 
 public class Instructor
 {

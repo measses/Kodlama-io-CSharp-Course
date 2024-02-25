@@ -1,12 +1,12 @@
-﻿using HW3.Entitites;
+﻿using Simulation-Kodlama-io.Entitites;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HW3.Business.Abstract;
+using Simulation-Kodlama-io.Business.Abstract;
 
-namespace HW3.Business.Concrete
+namespace Simulation-Kodlama-io.Business.Concrete
 {
     public class CourseService : ICourseService
     {

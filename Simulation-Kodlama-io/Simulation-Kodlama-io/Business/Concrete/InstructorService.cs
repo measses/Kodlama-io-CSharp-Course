@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HW3.Business.Abstract;
-using HW3.DataAccess.Abstract;
-using HW3.Entitites;
+using Simulation-Kodlama-io.Business.Abstract;
+using Simulation-Kodlama-io.DataAccess.Abstract;
+using Simulation-Kodlama-io.Entitites;
 
-namespace HW3.Business.Concrete
+namespace Simulation-Kodlama-io.Business.Concrete
 {
     public class InstructorService : IInstructorService
     {   

@@ -1,4 +1,4 @@
-﻿using HW3.Entitites;
+﻿using Simulation-Kodlama-io.Entitites;
 using System;
 
 public interface ICourseDal

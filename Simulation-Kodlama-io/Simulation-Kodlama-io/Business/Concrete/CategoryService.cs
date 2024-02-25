@@ -4,12 +4,12 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
-using HW3.Business.Abstract;
-using HW3.DataAccess.Abstract;
-using HW3.DataAccess.Concrete;
-using HW3.Entitites;
+using Simulation-Kodlama-io.Business.Abstract;
+using Simulation-Kodlama-io.DataAccess.Abstract;
+using Simulation-Kodlama-io.DataAccess.Concrete;
+using Simulation-Kodlama-io.Entitites;
 
-namespace HW3.Business.Concrete
+namespace Simulation-Kodlama-io.Business.Concrete
 {
     public class CategoryService : ICategoryService
     {

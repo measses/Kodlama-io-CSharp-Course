@@ -1,4 +1,4 @@
-﻿namespace HW3.Entitites;
+﻿namespace Simulation-Kodlama-io.Entitites;
 
 public class Category
 {

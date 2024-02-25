@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HW3.Entitites;
+using Simulation-Kodlama-io.Entitites;
 
-namespace HW3.DataAccess.Concrete
+namespace Simulation-Kodlama-io.DataAccess.Concrete
 {
     public class CourseDal : ICourseDal
     {

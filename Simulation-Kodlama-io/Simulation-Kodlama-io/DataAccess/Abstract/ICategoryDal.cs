@@ -1,11 +1,11 @@
-﻿using HW3.Entitites;
+﻿using Simulation-Kodlama-io.Entitites;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW3.DataAccess.Abstract
+namespace Simulation-Kodlama-io.DataAccess.Abstract
 {
     public interface ICategoryDal
     {

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HW3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Simulation-Kodlama-io")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5831897d94b55d5adf3b66868c4a5dfd7b8f6c0")]
-[assembly: System.Reflection.AssemblyProductAttribute("HW3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HW3")]
+[assembly: System.Reflection.AssemblyProductAttribute("Simulation-Kodlama-io")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Simulation-Kodlama-io")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
